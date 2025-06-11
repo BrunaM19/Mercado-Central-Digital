@@ -1,24 +1,23 @@
-=======
 # 🛒 Mercado Central Digital
 
-**Mercado Central Digital** is a modern web application designed to digitize and facilitate access to products and services available in local markets, connecting sellers and buyers quickly, intuitively, and accessibly.
+**Mercado Central Digital** is a modern web application designed to digitize and facilitate access to products and services available in local markets. It was thoughtfully created with the people of **Mercado Central in Maputo** in mind, aiming to connect sellers and buyers quickly, intuitively, and accessibly.
 
 ## 🚀 Technologies Used
 
 This project is built with:
 
-- [Vite](https://vitejs.dev/)
-- [React](https://react.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [shadcn/ui](https://ui.shadcn.com/)
+* [Vite](https://vitejs.dev/)
+* [React](https://react.dev/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [shadcn/ui](https://ui.shadcn.com/)
 
 ## 📦 Requirements
 
 Make sure you have installed:
 
-- [Node.js](https://nodejs.org/) (version 18 or higher recommended)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+* [Node.js](https://nodejs.org/) (version 18 or higher recommended)
+* [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
 ## 🔧 How to Install and Run Locally
 
@@ -38,4 +37,4 @@ yarn install
 npm run dev
 # or
 yarn dev
->>>>>>> b39a47f (feat: project completed)
+```
