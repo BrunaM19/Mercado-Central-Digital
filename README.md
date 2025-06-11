@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# Coming soon
 =======
 # 🛒 Mercado Central Digital
 
